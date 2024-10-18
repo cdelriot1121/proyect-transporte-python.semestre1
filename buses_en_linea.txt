@@ -1,0 +1,2 @@
+T103,5:30,Portal,05:30,MadreBernarda,05:35,Castellana,05:45,Ejecutivos,05:58,4Vientos,06:13,Bodeguita,06:46
+T100e,5:30,Portal,05:30,MadreBernarda,05:35,Castellana,05:45,4Vientos,06:00,Centro,06:28
