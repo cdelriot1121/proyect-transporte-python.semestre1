@@ -16,6 +16,7 @@ Este proyecto fue uno de mis primeros proyectos que presenté en el primer semes
    - Guardar los datos actuales en un archivo y salir del sistema.
 
 <div align="center"> 
+
   <img src="catch-rdme/gif1.gif" alt="Descripción del GIF 1">
 </div>
 
@@ -34,6 +35,7 @@ El programa está estructurado en un menú principal con las siguientes opciones
   - Guardar datos y salir
 
 <div align="center"> 
+
   <img src="catch-rdme/gif2.gif" alt="Descripción del GIF 2">
 </div>
 
